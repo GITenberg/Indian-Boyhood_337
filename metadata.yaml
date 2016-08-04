@@ -1,0 +1,37 @@
+_repo: Indian-Boyhood_337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eastman, Charles Alexander
+    aliases:
+    - Ohiyesa
+    - Eastman, Charles A.
+    - Okhidzheza
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '187'
+    url: http://www.gutenberg.org/2009/agents/187
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Eastman
+description: Charles Eastman, whose Sioux name was Ohiyesa (pronounced Oh hee' yay
+  suh), was a Native American author, doctor and reformer who also helped to establish
+  the Boy Scouts of America. His autobiographical Indian Boyhood, popular in Boy Scout
+  programs, is a 1902 recollection of life growing up among the Sioux.
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2008-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian children -- North America'
+- !lcsh 'Santee Indians -- Social life and customs'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Biography'
+- !lcsh 'Santee Indians -- Biography'
+- !lcsh 'Eastman, Charles Alexander, 1858-1939 -- Childhood and youth'
+- GITenberg
+title: Indian Boyhood
+url: http://www.gutenberg.org/ebooks/337
